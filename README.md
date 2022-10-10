@@ -1,4 +1,4 @@
-<h3 align="center">👋 Salut ! Moi c'est Claver Akpaki </h3>
+<h3 align="center">👋🏽 Salut ! Moi c'est Claver Akpaki </h3>
 
 ---
 ✨ Je suis développeur d'applications web,desktop et mobile vivant à Montréal,Canada . Je suis un passionné de technologie et du fait de rendre le web accessible à tout le monde.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
