@@ -17,7 +17,7 @@
 - JavaScript
 - HTML5, CSS, CSS# , SCSS
 - NodeJS,ReactJS,NextJS,Gatsby,expressJS,redux
--PHP
+- PHP
 - MongoDB,MySQL,MariaDB,PostgreSQL
 - Aws, Google cloud,firebase
 - Restful API, GraphQL
