@@ -24,11 +24,7 @@
 
 ### Application Development
 
-- Python
-- .NET
-- C++ 
--C#
--Java,Android
+- Progress ABL
 -React-native
 
 
